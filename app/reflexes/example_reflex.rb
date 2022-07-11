@@ -33,4 +33,8 @@ class ExampleReflex < ApplicationReflex
   #
   # Learn more at: https://docs.stimulusreflex.com/rtfm/reflex-classes
 
+  def poof
+    morph "#poof", "poof!"
+  end
+
 end
