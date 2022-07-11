@@ -1,24 +1,11 @@
-# README
+# StimulusReflex 3.5.0pre9 on Rails 7.0.3+Propshaft
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Attempt to follow [marcoroth/rails7-stimulus-reflex-esbuild](https://github.com/marcoroth/rails7-stimulus-reflex-esbuild/):
 
-Things you may want to cover:
+```
+$ rails stimulus_reflex:install
+rails aborted!
+Don't know how to build task 'stimulus_reflex:install' (See the list of available tasks with `rails --tasks`)
+Did you mean?  stimulus:install
+```
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
